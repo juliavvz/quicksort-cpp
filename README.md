@@ -18,8 +18,8 @@ g++ quicksort.cpp -o quicksort
 ## Saída esperada
 
 ```
-Vetor antes da ordenacao: 49, 38, 58, 87, 34, 93, 26, 13
-Vetor apos a ordenacao:  13, 26, 34, 38, 49, 58, 87, 93
+Vetor antes da ordenação: 49, 38, 58, 87, 34, 93, 26, 13
+Vetor apos a ordenação:  13, 26, 34, 38, 49, 58, 87, 93
 ```
 
 ## Como funciona
